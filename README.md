@@ -1,4 +1,4 @@
-# Flipkart-Sentiment-Analysis
+
 # Flipkart Sentiment Analysis
 
 A machine learning project that analyzes customer reviews from Flipkart to predict sentiment using Natural Language Processing (NLP) techniques and Decision Tree classification.
@@ -134,23 +134,8 @@ flipkart-sentiment-analysis/
 └── requirements.txt              # Python dependencies
 ```
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Author
-
-Your Name
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
 
 ## 🙏 Acknowledgments
 
@@ -159,10 +144,4 @@ Your Name
 - Matplotlib and Seaborn for data visualization
 - WordCloud library for text visualization
 
-## 📞 Support
 
-If you have any questions or run into issues, please open an issue on GitHub or contact the author.
-
----
-
-⭐ Star this repository if you found it helpful!
