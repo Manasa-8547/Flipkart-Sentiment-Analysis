@@ -3,6 +3,11 @@
 
 A machine learning project that analyzes customer reviews from Flipkart to predict sentiment using Natural Language Processing (NLP) techniques and Decision Tree classification.
 
+# 👨‍💻 Developer Information 
+- **Developer**: P.Manasa
+- **Roll No**: 222T1A3145
+- **Institution**: Ashoka Womens Engineering College.
+
 ## 🎯 Project Overview
 
 This project performs sentiment analysis on Flipkart customer reviews to classify them as positive or negative. It uses text preprocessing, TF-IDF vectorization, and a Decision Tree classifier to predict sentiment based on review content.
